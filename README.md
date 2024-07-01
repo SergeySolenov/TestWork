@@ -1,4 +1,4 @@
-Тестовое задание на вакансию QA, тест модального окна на странице: https://systeme.io/blog/make-money-home
+Тестовое задание на вакансию QA, тест модального окна "Financial freedom" на странице: https://systeme.io/blog/make-money-home
 
 Для запуска и сборки:
 1. Установите Docker c официального сайта: https://www.docker.com/products/docker-desktop/
